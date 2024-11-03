@@ -46,8 +46,7 @@ Install The Django project
         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo0LCJleHAiOjE3MzA2NDQ3MTMsImlhdCI6MTczMDY0NDExM30.3sVm6ZMUs0x_lwoEO9rVd3RqgIsgVkjpLkpBEgWFjzE"
     }
     ```
-- Screenshot
-    ![Logo](https://i.ibb.co.com/MMz17sK/Screenshot-5.png)
+  ![Logo](https://i.ibb.co.com/MMz17sK/Screenshot-5.png)
 
 2. **API Endpoint User Status Check**
 
@@ -70,5 +69,5 @@ Install The Django project
         "created_at": "2024-11-03T14:28:33.596355Z"
     }
     ```
-- Screenshot
-    ![Logo](https://i.ibb.co.com/TcvmdJ4/Screenshot-6.png)
+
+  ![Logo](https://i.ibb.co.com/TcvmdJ4/Screenshot-6.png)
